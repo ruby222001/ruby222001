@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on [django](https://github.com/ruby222001/django.git)
 
-- 📝 I regularly write on [https://medium.com/@rubymaharzn](https://medium.com/@rubymaharzn)
 
 - 📫 How to reach me **rubymaharzn@gmail.com**
 
