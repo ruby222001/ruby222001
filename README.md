@@ -5,10 +5,11 @@
 <img src="https://i.gifer.com/3Ayb.gif" alt="coding"/>
 - 🔭 I’m currently working on [django](https://github.com/ruby222001/django.git)
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **flutter**
 
-- 👯 I’m looking to collaborate on [django](https://github.com/ruby222001/django.git)
+- please tell me to take a break and dont get stuffed with errors
 
+![code](https://github.com/ruby222001/ruby222001/assets/113155583/c948c05d-13de-4b55-aaf1-3954fe1b47ff)
 
 - 📫 How to reach me **rubymaharzn@gmail.com**
 
