@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- please tell me to take a break and dont get stuffed with errors
 
-![code](https://github.com/ruby222001/ruby222001/assets/113155583/c948c05d-13de-4b55-aaf1-3954fe1b47ff)
+![image](https://github.com/ruby222001/ruby222001/assets/113155583/9bb3b739-5d9a-45a6-8be5-31e7150622b2)
 
 - 📫 How to reach me **rubymaharzn@gmail.com**
 
