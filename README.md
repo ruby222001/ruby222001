@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ruby Maharjan</h1>
-<h3 align="center">currently focusing in django</h3>
+<h3 align="center">Currently Focusing in FLUTTER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruby222001&label=Profile%20views&color=0e75b6&style=flat" alt="ruby222001" /> </p>
 <img src="https://i.gifer.com/3Ayb.gif" alt="coding"/>
-- 🔭 I’m currently working on [django](https://github.com/ruby222001/django.git)
+
 
 - 🌱 I’m currently learning **flutter**
 
 
-![image](https://github.com/ruby222001/ruby222001/assets/113155583/9bb3b739-5d9a-45a6-8be5-31e7150622b2)
 
 - 📫 How to reach me **rubymaharzn@gmail.com**
 
