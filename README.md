@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ruby Maharjan</h1>
-<h3 align="center">Currently Focusing in FLUTTER</h3>
+<h1 align="center">Ruby Maharjan</h1>
+<img align="right"   width="400" src="https://storage.googleapis.com/pai-images/fd3e07226c064dc4b34c8140022aff69.jpeg"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruby222001&label=Profile%20views&color=0e75b6&style=flat" alt="ruby222001" /> </p>
-<img src="https://i.gifer.com/3Ayb.gif" alt="coding"/>
-
-
-- 🌱 I’m currently learning **flutter**
 
 
 
-- 📫 How to reach me **rubymaharzn@gmail.com**
-
-- ⚡ Fun fact **I am cool but you don't know**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+- 🌱 I’m currently learning **flutter**
+- 📫 How to reach me **rubymaharzn@gmail.com**
+
+  
 
 <a href="https://linkedin.com/in/@rubi-maharjan-aa0a871ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@rubi-maharjan-aa0a871ba" height="30" width="40" /></a>
 <a href="https://instagram.com/@rubymaharzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rubymaharzn" height="30" width="40" /></a>
